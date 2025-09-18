@@ -1,3 +1,4 @@
 app:
-  name: FooAppDev
+  name: FooAppDevTest
   version: "1.0.1"
+  testname: FooAppTest
